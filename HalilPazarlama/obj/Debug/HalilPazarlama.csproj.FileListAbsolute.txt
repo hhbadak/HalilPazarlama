@@ -1,0 +1,8 @@
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\HalilPazarlama\HalilPazarlama\obj\Debug\HalilPazarlama.csproj.AssemblyReference.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\HalilPazarlama\HalilPazarlama\obj\Debug\HalilPazarlama.csproj.SuggestedBindingRedirects.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\HalilPazarlama\HalilPazarlama\obj\Debug\HalilPazarlama.csproj.CoreCompileInputs.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\HalilPazarlama\HalilPazarlama\bin\Debug\HalilPazarlama.exe.config
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\HalilPazarlama\HalilPazarlama\bin\Debug\HalilPazarlama.exe
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\HalilPazarlama\HalilPazarlama\bin\Debug\HalilPazarlama.pdb
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\HalilPazarlama\HalilPazarlama\obj\Debug\HalilPazarlama.exe
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\HalilPazarlama\HalilPazarlama\obj\Debug\HalilPazarlama.pdb
