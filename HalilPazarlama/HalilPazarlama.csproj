@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BulasikMakinesi.cs" />
-    <Compile Include="Buzdolabı.cs" />
+    <Compile Include="Buzdolabi.cs" />
     <Compile Include="CamasirMakinesi.cs" />
     <Compile Include="Firin.cs" />
     <Compile Include="Program.cs" />

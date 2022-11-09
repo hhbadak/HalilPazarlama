@@ -20,4 +20,5 @@ namespace HalilPazarlama
             return $"Marka : {marka}\nModel : {model}\nGaranti Süresi : {garantiSuresi}\nFiyat : {fiyat}";
         }
     }
+    
 }
