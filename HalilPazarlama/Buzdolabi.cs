@@ -7,7 +7,7 @@ using System.Collections;
 
 namespace HalilPazarlama
 {
-    public class Buzdolabı : Urun
+    public class Buzdolabi : Urun
     {
         public int urunKodu;
         public string enerjiSinifi;
