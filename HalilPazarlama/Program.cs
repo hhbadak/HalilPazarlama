@@ -24,7 +24,7 @@ namespace HalilPazarlama
             Supurge s = new Supurge();
             Televizyon tv = new Televizyon();
             #endregion
-            
+
             BulasikMakinesi bulasik1 = new BulasikMakinesi();
             bulasik1.urunKodu = 101;
             bulasik1.marka = "VESTEL";
@@ -365,7 +365,40 @@ namespace HalilPazarlama
 
             #endregion
 
-            
+            #region SATIN ALMA
+            string secim = "e";
+            string secenek = "";
+            while (secim == "e")
+            {
+                Console.WriteLine("                     HALİL PAZARLAMA MAĞAZAMIZA");
+                Console.WriteLine("                             HOŞGELDİNİZ");
+                Console.WriteLine("1-) Bulaşık Makineleri");
+                Console.WriteLine("2-) Buzdolapları");
+                Console.WriteLine("3-) Çamaşır Makineleri");
+                Console.WriteLine("4-) Fırınlar");
+                Console.WriteLine("5-) Süpürgeler");
+                Console.WriteLine("6-) Televizyonlar");
+                Console.WriteLine("7-) Tüm Ürünler");
+                secenek = Console.ReadLine();
+                while (secenek != "1" && secenek != "2" && secenek != "3" && secenek != "4" && secenek != "5" && secenek != "6" && secenek != "7")
+                {
+                    Console.WriteLine("Yanlış Seçim Yaptınız Lütfen Tekrar Deneyiniz");
+                    secenek = Console.ReadLine();
+                    Console.Clear();
+                }
+                if (secenek == "1")
+                {
+
+                }
+                else if (secenek == "2")
+                {
+
+                }
+
+            }
+
+            #endregion
+
         }
     }
 }

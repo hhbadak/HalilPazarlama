@@ -19,4 +19,7 @@ namespace HalilPazarlama
             return $"{base.Yazdir()}\nÜrün Kodu : {urunKodu}\nProgram Sayısı : {programSayisi}\nEnerji Sınıfı : {enerjiSinifi}\nKapasite : {kapasite}";
         }
     }
+   
+
+   
 }
