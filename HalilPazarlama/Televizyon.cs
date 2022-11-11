@@ -18,7 +18,7 @@ namespace HalilPazarlama
         public string goruntuKalitesi;
         public override string Yazdir()
         {
-            return $"{base.Yazdir()}\nÜrün Kodu : {urunKodu}\nEkran Boyutu : {ekranBoyutu}\nSmartTv Özelliği : {smartTv}\nDahili Uydu Alıcısı : {dahiliUyduAlici}\nRenk : {renk}\nWi-Fi Özelliği : {wifi}\nGörüntü Kalitesi : {goruntuKalitesi}";
+            return $"Ürün Kodu : {urunKodu}\n{base.Yazdir()}\nEkran Boyutu : {ekranBoyutu}\nSmartTv Özelliği : {smartTv}\nDahili Uydu Alıcısı : {dahiliUyduAlici}\nRenk : {renk}\nWi-Fi Özelliği : {wifi}\nGörüntü Kalitesi : {goruntuKalitesi}";
         }
     }
 

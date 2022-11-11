@@ -388,7 +388,15 @@ namespace HalilPazarlama
                 }
                 if (secenek == "1")
                 {
-
+                    Console.Clear();
+                    for (int i = bm.urunKodu; i < bulasikMakineleri.Count; i++)
+                    {
+                        Console.WriteLine(bulasikMakineleri[i].Yazdir());
+                        Console.WriteLine("*******************************");
+                    }
+                    Console.WriteLine("Hangi Ürünü Almak İstersiniz");
+                    int urunSec = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine($"Seçtiğiniz Ürün {bulasikMakineleri[bulasikMakineleri[urunSec].urunKodu].marka}");
                 }
                 else if (secenek == "2")
                 {

@@ -17,7 +17,7 @@ namespace HalilPazarlama
 
         public override string Yazdir()
         {
-            return $"{base.Yazdir()}\nÜrün Kodu : {urunKodu}\nYıkama Kapasitesi : {yikamaKapasitesi}\nEnerji Sınıfı : {enerjiSinifi}\nÜrün Boyutu : {boyut}\nAkıllı Yıkama : {akilliYikama}";
+            return $"Ürün Kodu : {urunKodu}\n{base.Yazdir()}\nYıkama Kapasitesi : {yikamaKapasitesi}\nEnerji Sınıfı : {enerjiSinifi}\nÜrün Boyutu : {boyut}\nAkıllı Yıkama : {akilliYikama}";
         }
     }
 }

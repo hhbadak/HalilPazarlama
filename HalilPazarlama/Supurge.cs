@@ -16,7 +16,7 @@ namespace HalilPazarlama
 
         public override string Yazdir()
         {
-            return $"{base.Yazdir()}\nÜrün Kodu : {urunKodu}\nMotor Gücü : {motorGucu}\nSu Haznesi : {suHaznesi}\nRenk : {renk}";
+            return $"Ürün Kodu : {urunKodu}\n{base.Yazdir()}\nMotor Gücü : {motorGucu}\nSu Haznesi : {suHaznesi}\nRenk : {renk}";
         }
     }
 }
